@@ -1,5 +1,12 @@
 # Changelog
 
+## [7.0.1](https://github.com/folke/lazy.nvim/compare/v7.0.0...v7.0.1) (2022-12-23)
+
+
+### Bug Fixes
+
+* **help:** make sure we always generate lazy helptags ([f360e33](https://github.com/folke/lazy.nvim/commit/f360e336a5e2b57e1ee0232c9c89a4ceb3617798))
+
 ## [7.0.0](https://github.com/folke/lazy.nvim/compare/v6.0.0...v7.0.0) (2022-12-23)
 
 
